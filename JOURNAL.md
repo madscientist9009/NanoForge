@@ -31,3 +31,20 @@ sorry that the image is rotated :(
 ![IMG_1178](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzkzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--bd2c1002e1130299f6948af5c46af3d0ee5b6fcb/IMG_1178.jpeg)
   
 
+## 11/4/2025 - Starting/testing  
+
+More Brain storming and Testing,
+
+
+BRAINSTORMING:
+Remover SD cards,
+trigger buttons,
+Power is just a 9v battery,
+processor is an arduino.
+
+TESTING:
+Wired up the LCD screen to the arduino,
+![IMG_1179](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQ2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--44e18d9d717f760a3d067dd2e820b2f4608bb32c/IMG_1179.jpeg)
+made a CAD project of it, `https://www.tinkercad.com/things/9wTawKCMsOU-game-pad`
+code for this will be created later  
+
