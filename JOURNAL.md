@@ -27,8 +27,8 @@ The inside will have
 The frame is 3D printed and the inside is all one board
 I might add a wifi or radio so you can play with friends
 
-sorry that the image is rotated :(
-![IMG_1178](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzkzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--bd2c1002e1130299f6948af5c46af3d0ee5b6fcb/IMG_1178.jpeg)
+![IMG_1178](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQ2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--bc1056dd746bb4906b72e8f1d4182c3afc19463f/IMG_1178.jpeg)
+
   
 
 ## 11/4/2025 - Starting/testing  
