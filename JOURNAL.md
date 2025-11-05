@@ -44,7 +44,8 @@ processor is an arduino.
 
 TESTING:
 Wired up the LCD screen to the arduino,
-![IMG_1179](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQ2NCwicHVyIjoiYmxvYl9pZCJ9fQ==--44e18d9d717f760a3d067dd2e820b2f4608bb32c/IMG_1179.jpeg)
+![IMG_1179](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODQ2NywicHVyIjoiYmxvYl9pZCJ9fQ==--24c1ec99549185d86327f58a201c4063d8aef828/IMG_1179.jpeg)
+
 made a CAD project of it, `https://www.tinkercad.com/things/9wTawKCMsOU-game-pad`
 code for this will be created later  
 
